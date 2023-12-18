@@ -1,1 +1,2 @@
-# TF2-for-Deep-Learning
+# TF2-for-Deep-Learning  
+Tensorflow specialization
